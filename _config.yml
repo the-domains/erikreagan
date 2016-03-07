@@ -1,0 +1,28 @@
+name: erikreagan
+favicon: null
+layout_spectrum: 0.8929731268435717
+typography_spectrum: 0.2354915146715939
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3375042015686631
+  lightness: 0.09163298248313367
+  saturation: 0.43134350841864944
+  rhythmicContrast: 0.8182217222638428
+purpose: []
